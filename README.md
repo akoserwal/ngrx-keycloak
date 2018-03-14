@@ -1,5 +1,15 @@
 # NgrxKeycloak
 
+
+
+## packaging 
+* [ngrx schematics](https://github.com/ngrx/platform/blob/master/docs/schematics/README.md)
+* [ng-packagr](https://github.com/dherges/ng-packagr#ng-packagr)
+* [keycloak.js](https://www.npmjs.com/package/keycloak-js)
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 ## Development server
